@@ -25,7 +25,7 @@
 <!-- - 📫 How to reach me: [instagram - @muhidayat03](https://instagram.com/muhidayat03)  -->
 - ⚡ Fun fact: I am left-handed
 - 📄 About me: Coming from a non STEM background,  I am a firm advocate and practitioner of 3 continuous actions:
-<br/>
+
 <br/> 1) Continuous learning
 <br/> 2) Continuous building
 <br/> 3) Continuous sharing.
