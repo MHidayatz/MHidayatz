@@ -1,9 +1,9 @@
-## Hello there, My name is [Muhammad Hidayat](https://pawan.live) 👋
+## Hello there, My name is [Muhammad Hidayat](https://mhidayatz.github.io/Hidayat_Portfolio/) 👋
 
 <p align="left"> <img src="http://muhidayat03.online/icon.png" alt="muhidayat03" /> </p>
 
  
-<a href="https://www.linkedin.com/in/muhammad-hidayat-318b8218b/">
+<a href="https://www.linkedin.com/in/md-hidayat-31bbb74b/">
   <img align="left" alt="hidayat's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://github.com/muhidayat03">
