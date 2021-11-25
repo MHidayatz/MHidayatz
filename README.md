@@ -28,9 +28,14 @@
 📄 About me: 
 
 Coming from a non STEM background,  I am a firm advocate and practitioner of 3 continuous actions:
-<p style="text-indent: 100px"> 1) Continuous learning </p>
+<style> div.a {
+  text-indent: 50px;
+}
+ 
+ 1) Continuous learning </p>
 <br/>  2) Continuous building
 <br/>  3) Continuous sharing.
 
+ </style>
  
 [![Linkedin: hidayat](https://img.shields.io/badge/-Muhammad%20Hidayat-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/md-hidayat-31bbb74b/)](https://www.linkedin.com/in/md-hidayat-31bbb74b/) [![GitHub muhidayat03](https://img.shields.io/github/followers/muhidayat03?label=follow&style=social)](https://github.com/MHidayatz) 
