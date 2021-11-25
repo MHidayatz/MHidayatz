@@ -26,7 +26,7 @@
 - ⚡ Fun fact: I am left-handed
 - 📄 About me: Coming from a non STEM background,  I am a firm advocate and practitioner of 3 continuous actions:
 
-<br/>  1) Continuous learning
+<br/>  .tab { margin-left: 40px; } 1) Continuous learning
 <br/>  2) Continuous building
 <br/>  3) Continuous sharing.
 
