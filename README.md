@@ -26,7 +26,8 @@
 - ⚡ Fun fact: I am left-handed
 - 📄 About me: Coming from a non STEM background,  I am a firm advocate and practitioner of 3 continuous actions:
 
-<br/>  .tab { margin-left: 40px; } 1) Continuous learning
+<p style="text-indent: 40px">This text is indented.</p>
+<br/>  1) Continuous learning
 <br/>  2) Continuous building
 <br/>  3) Continuous sharing.
 
