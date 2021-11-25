@@ -1,6 +1,6 @@
 ## Hello there, My name is [Muhammad Hidayat](https://mhidayatz.github.io/Hidayat_Portfolio/) 👋
 
-<p align="left"> <img src="http://muhidayat03.online/icon.png" alt="muhidayat03" /> </p>
+# <p align="left"> <img src="http://muhidayat03.online/icon.png" alt="muhidayat03" /> </p>
 
  
 <a href="https://www.linkedin.com/in/md-hidayat-31bbb74b/">
