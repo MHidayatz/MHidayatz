@@ -27,7 +27,7 @@
 - 📄 About me: Coming from a non STEM background,  I am a firm advocate and practitioner of 3 continuous actions:
 
 
-<br/>  <p style="text-indent: 100px"> 1) Continuous learning </p>
+<br/>  <p style="margin-left: 40px"> 1) Continuous learning </p>
 <br/>  2) Continuous building
 <br/>  3) Continuous sharing.
 
