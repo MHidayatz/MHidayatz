@@ -25,9 +25,9 @@
 <!-- - 📫 How to reach me: [instagram - @muhidayat03](https://instagram.com/muhidayat03)  -->
 - ⚡ Fun fact: I am left-handed
 - 📄 About me: As someone without a STEM degree, I am a firm advocate and practitioner of 3 continuous actions:
-1 ) Continuous learning
-2 ) Continuous building
-3 ) Continuous sharing.
+<br/> 1) Continuous learning
+<br/> 2) Continuous building
+<br/> 3) Continuous sharing.
 
  
 [![Linkedin: hidayat](https://img.shields.io/badge/-Muhammad%20Hidayat-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/md-hidayat-31bbb74b/)](https://www.linkedin.com/in/md-hidayat-31bbb74b/) [![GitHub muhidayat03](https://img.shields.io/github/followers/muhidayat03?label=follow&style=social)](https://github.com/MHidayatz) 
