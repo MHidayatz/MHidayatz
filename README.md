@@ -6,14 +6,15 @@
 <a href="https://www.linkedin.com/in/md-hidayat-31bbb74b/">
   <img align="left" alt="hidayat's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://github.com/muhidayat03">
+<a href="https://github.com/MHidayatz">
   <img align="left" alt="hidayat's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 
+<!--
 <a href="https://instagram.com/muhidayat03/">
   <img align="left" alt="hidayat's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
- 
+ -->
 
 <br/>
 <br/>
