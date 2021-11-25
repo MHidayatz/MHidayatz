@@ -24,7 +24,8 @@
 - 🔭 I’m currently working at [M.K.I.](https://www.mki.co.jp/english/)
 <!-- - 📫 How to reach me: [instagram - @muhidayat03](https://instagram.com/muhidayat03)  -->
 - ⚡ Fun fact: I am left-handed
-- 📄 About me: As someone without a STEM degree, I am a firm advocate and practitioner of 3 continuous actions:
+- 📄 About me: Coming from a non STEM background, 
+<br/> I am a firm advocate and practitioner of 3 continuous actions:
 <br/> 1) Continuous learning
 <br/> 2) Continuous building
 <br/> 3) Continuous sharing.
