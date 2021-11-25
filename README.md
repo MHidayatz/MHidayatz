@@ -1,5 +1,4 @@
-## Hello there, 
-My name is [Muhammad Hidayat](https://pawan.live) 👋
+## Hello there, My name is [Muhammad Hidayat](https://pawan.live) 👋
 
 <p align="left"> <img src="http://muhidayat03.online/icon.png" alt="muhidayat03" /> </p>
 
