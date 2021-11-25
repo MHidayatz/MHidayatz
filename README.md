@@ -20,7 +20,7 @@
 
 
 
-- 🔭 I’m currently working at [M.K.I.](https://www.mki.co.jp/english/).   
+- 🔭 I’m currently working at [M.K.I.](https://www.mki.co.jp/english/)
 - 📫 How to reach me: [instagram - @muhidayat03](https://instagram.com/muhidayat03)
 - ⚡ Fun fact: I am left-handed
  
