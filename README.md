@@ -22,7 +22,7 @@
 
 
 - 🔭 I’m currently working at [M.K.I.](https://www.mki.co.jp/english/)
-- 📫 How to reach me: [instagram - @muhidayat03](https://instagram.com/muhidayat03)
+<!-- - 📫 How to reach me: [instagram - @muhidayat03](https://instagram.com/muhidayat03)  -->
 - ⚡ Fun fact: I am left-handed
  
-[![Linkedin: hidayat](https://img.shields.io/badge/-Muhammad%20Hidayat-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/muhammad-hidayat-318b8218b/)](https://www.linkedin.com/in/muhammad-hidayat-318b8218b/) [![GitHub muhidayat03](https://img.shields.io/github/followers/muhidayat03?label=follow&style=social)](https://github.com/muhidayat03) 
+[![Linkedin: hidayat](https://img.shields.io/badge/-Muhammad%20Hidayat-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/md-hidayat-31bbb74b/)](https://www.linkedin.com/in/md-hidayat-31bbb74b/) [![GitHub muhidayat03](https://img.shields.io/github/followers/muhidayat03?label=follow&style=social)](https://github.com/muhidayat03) 
