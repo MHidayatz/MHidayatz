@@ -4,7 +4,7 @@
 
  
 <a href="https://www.linkedin.com/in/md-hidayat-31bbb74b/">
-  <img align="left" alt="hidayat's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="hidayat's Linkdein" width="22px" src="https://www.nicepng.com/png/full/374-3745383_linkedin-linkedin-logo-grey-png.png" />
 </a>
 <a href="https://github.com/MHidayatz">
   <img align="left" alt="hidayat's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
