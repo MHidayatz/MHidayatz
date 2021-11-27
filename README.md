@@ -7,7 +7,7 @@
   <img align="left" alt="hidayat's Linkdein" width="22px" src="https://www.nicepng.com/png/full/374-3745383_linkedin-linkedin-logo-grey-png.png" />
 </a>
 <a href="https://github.com/MHidayatz">
-  <img align="left" alt="hidayat's Github" width="22px" src="https://image.pngaaa.com/933/94933-middle.png" />
+  <img align="left" alt="hidayat's Github" width="22px" src="https://joshuapenalba.files.wordpress.com/2014/12/github-icon.png" />
 </a>
 
 <!--
