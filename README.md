@@ -34,6 +34,6 @@ Coming from a non STEM background,  I am a firm advocate and practitioner of 3 c
         2) Continuous building.
         3) Continuous sharing.
 
-👪 I do enjoy spending lot of time reading and nurturing my 3 year old son whenever I am not building solutions or learning. 
+👪 I do enjoy spending lot of time reading and nurturing my one and only son whenever I am can.
  
 [![Linkedin: hidayat](https://img.shields.io/badge/-Muhammad%20Hidayat-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/md-hidayat-31bbb74b/)](https://www.linkedin.com/in/md-hidayat-31bbb74b/) [![GitHub muhidayat03](https://img.shields.io/github/followers/muhidayat03?label=follow&style=social)](https://github.com/MHidayatz) 
