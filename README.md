@@ -27,12 +27,12 @@
 
 📄 About me: 
 
-Coming from a non STEM background,  I am a firm advocate and practitioner of 3 continuous actions:
+Coming from a non STEM background,  I am a firm advocate and practitioner of 3 continual actions:
 
  
-        1) Continuous learning.
-        2) Continuous building.
-        3) Continuous sharing.
+        1) Continual learning.
+        2) Continual building.
+        3) Continual sharing.
 
 👪 I do enjoy spending lot of time reading and nurturing my one and only son whenever I am can.
  
