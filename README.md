@@ -41,5 +41,5 @@ Coming from a non STEM background,  I am a firm advocate and practitioner of 3 c
 [2022 Github Contribution](https://skyline.github.com/MHidayatz/2022)
 
 ```html
-<script src="https://embed.github.com/view/3d/MHidayatz/MHidayatz/blob/main/MHidayatz-2021.stl"></script>
+<script src="https://embed.github.com/view/3d/MHidayatz/blob/main/MHidayatz-2021.stl"></script>
 ```
